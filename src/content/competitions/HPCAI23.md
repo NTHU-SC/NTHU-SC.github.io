@@ -19,7 +19,7 @@ Team ZY: ZHAN-YI LIN and SHIH-HSUN WEI handled the HPC task, and CHEN-AN PAI, HA
 
 Thanks for the help of National Center for High-performance Computing by letting us tested the task on their cluster Taiwania2 and Taiwania3.
 
-Press release: ![link](https://www.hpcadvisorycouncil.com/pdf/2023_APAC_HPC_AI%20Competition_Result_Announcement_PR_En.pdf)
+Press release: [link](https://www.hpcadvisorycouncil.com/pdf/2023_APAC_HPC_AI%20Competition_Result_Announcement_PR_En.pdf)
 
 - Team-ZY Members: ZHAN-YI LIN, CHEN-AN PAI, SHIH-HSUN WEI, HAO-TIEN YU, MING-CHUN TSAI
 - Team-SJ Members: SHIH-JOU CHENG, WEI-CHIH HUANG, SSU-CHENG Lai, WEI-PO LIN, TUNG-YU HSIEH, CHIH-YU HSIEH
