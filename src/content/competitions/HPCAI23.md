@@ -26,3 +26,7 @@ Press release: [link](https://www.hpcadvisorycouncil.com/pdf/2023_APAC_HPC_AI%20
 - Team-SJ Members: SHIH-JOU CHENG, WEI-CHIH HUANG, SSU-CHENG Lai, WEI-PO LIN, TUNG-YU HSIEH, CHIH-YU HSIEH
 - Student Coaches: CHAN-YU MOU, FU-CHIANG CHANG, PIN-YI KUO
 - Advisor: Jerry Chou
+
+<div align="center">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Unity is Strength, and the same principle applies to GPUs.🏆Champion of HPCAI23🏆<a href="https://twitter.com/hashtag/HPCAI23?src=hash&amp;ref_src=twsrc%5Etfw">#HPCAI23</a> </blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
