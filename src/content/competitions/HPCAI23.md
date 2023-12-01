@@ -13,11 +13,13 @@ The mainly goat of this competition was imrove, while the tasks were kind of wei
 
 As for the new members we recruited this year, their were some of the members not from CS department, thanks for advisor Chou's training camp, he decided to let the student with diverse majors have a chance to absorb knowledge in HPC. Professor Chou has been dedicated for NTHU SCC team for over a decade, we have gotten lots of resources from the predecessors, coaches and professor homself. The repeated winner is definitely not by luck.
 
-Talk about the HPC tasks, team-ZY took serveral approaches to reduce teh simulation time, including communication library tuning, network tunning, and data partitioning... Eventually, we found out the most improvement is from building the finetune openmpi for MPAS-A, and setting architecture flags for application core. In addition, we even change the way of partitioning graph, which can recover some trouble in load-balancing, moreover, we use ROMIO(an alternative way may replace MPI-IO) to improve the initialization part of simulation. In the other hand, our AI task have struggle more than we excepted. We wasted lots of time trying to build a faster version of pytorch rather rhan just pip install, while it didn't end well, turned out their is almost no differnence on the performance. At the end, the most improvement was gotten through increasing the batch size of inference. Last but not least, we fully prepared for the presentation and made it fluently with confident.
+Talk about the HPC tasks, team-ZY took serveral approaches to reduce simulation time, including communication library tuning, network tunning, and data partitioning... Eventually, we found out the most improvement is from building the finetune openmpi for MPAS-A, and setting architecture flags for application core. In addition, we even change the way of partitioning graph, which can recover some trouble in load-balancing, moreover, we use ROMIO(an alternative way may replace MPI-IO) to improve the initialization part of simulation. In the other hand, our AI task have struggle more than we excepted. We wasted lots of time trying to build a faster version of pytorch rather rhan just pip install, while it didn't end well, turned out their is almost no differnence on the performance. At the end, the most improvement was gotten through increasing the batch size of inference. Last but not least, we fully prepared for the presentation and made it fluently with confident.
 
+Team ZY: ZHAN-YI LIN and SHIH-HSUN WEI handled the HPC task, and CHEN-AN PAI, HAO-TIEN YU and MING-CHUN TSAI handled the AI task.
 
+Thanks for the help of National Center for High-performance Computing by letting us tested the task on their cluster Taiwania2 and Taiwania3.
 
-\\ too be fix and add more...
+Press release: ![link](https://www.hpcadvisorycouncil.com/pdf/2023_APAC_HPC_AI%20Competition_Result_Announcement_PR_En.pdf)
 
 - Team-ZY Members: ZHAN-YI LIN, CHEN-AN PAI, SHIH-HSUN WEI, HAO-TIEN YU, MING-CHUN TSAI
 - Team-SJ Members: SHIH-JOU CHENG, WEI-CHIH HUANG, SSU-CHENG Lai, WEI-PO LIN, TUNG-YU HSIEH, CHIH-YU HSIEH
