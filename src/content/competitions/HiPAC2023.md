@@ -4,7 +4,7 @@ description: "NTHU Team-2 and Team-ZY secure the champion and second place respe
 pubDate: "Aug 10 2023"
 heroImage: "/HiPAC-2023-banner.jpg"
 ---
-Our student team from National TsingHua University's Computer Science department have secured the champion of 2nd HIGH PERFORMANCE APPLICATION COMPETITION again, with a second place also taken done by us!
+Our student team from National Tsing Hua University's Computer Science department have secured the champion of 2nd HIGH PERFORMANCE APPLICATION COMPETITION again, with a second place also taken done by us!
 
 Participating in the High-Performance Computing (HPC) competition was an exhilarating and enlightening experience for our team. This competition tested not only our technical prowess but also our ability to collaborate effectively under pressure. 
 
@@ -24,7 +24,7 @@ Participating in the HPC competition was a challenging yet rewarding experience 
 
 Competition Winners Announcement: [link](https://event.nchc.org.tw/2023/hipac/awards.html)
 
-- Team-2 Members: SHIH-JOU CHENG, WEI-CHIH HUANG, SSU-CHENG Lai, WEI-PO LIN, TUNG-YU HSIEH, CHIH-YU HSIEH
+- Team-2 Members: SHIH-JOU CHENG, WEI-CHIH HUANG, SSU-CHENG LAI, WEI-PO LIN, TUNG-YU HSIEH, CHIH-YU HSIEH
 - Team-ZY Members: ZHAN-YI LIN, CHEN-AN PAI, SHIH-HSUN WEI, HAO-TIEN YU, MING-CHUN TSAI
 - Student Coaches: CHAN-YU MOU, FU-CHIANG CHANG, PIN-YI KUO
 - Advisor: Jerry Chou
