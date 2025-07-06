@@ -2,7 +2,7 @@
 title: "ISC24"
 description: "ISC24 in Hamburg, Germany"
 pubDate: "2024"
-heroImage: "ISC24.jpg"
+heroImage: "/ISC24.jpg"
 ---
 
 - **Award: 🏆Second Prize**

@@ -3,7 +3,6 @@ title: "狂賀🎉清華學生團隊勇奪2024 ISC歐洲超級電腦大賽亞軍
 description: "本校資工系學生團隊5月12-15日遠赴德國漢堡，參加ISC歐洲超級電腦大賽。初審階段從70組隊伍中脫穎而出、取得決賽資格，與7所世界名校同場競爭，最終榮獲第二名的佳績🥈"
 pubDate: "May 24 2024"
 heroImage: "/isc24_fb.jpg"
-badge: "NEW"
 ---
 
 <!-- CSS Code: Place this code in the document's head (between the 'head' tags) -->

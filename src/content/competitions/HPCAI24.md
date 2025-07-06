@@ -2,7 +2,7 @@
 title: "HPCAI24"
 description: "HPCAI24 online"
 pubDate: "2024"
-heroImage: "HPCAI24.jpg"
+heroImage: "/HPCAI24.jpg"
 ---
 
 - **Award: 🏆First Place & Third Place**
