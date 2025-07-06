@@ -2,7 +2,7 @@
 title: "HPCAI23"
 description: "HPCAI23 online"
 pubDate: "2023"
-heroImage: "HPC-AI23-banner.jpg"
+heroImage: "/HPC-AI23-banner.jpg"
 ---
 
 - **Award: 🏆Champion & Third Place**
